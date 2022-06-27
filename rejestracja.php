@@ -40,7 +40,7 @@
                     
                     <div class="wrapper">
                         <div class="container">
-                         Haslo:<br><input type="password" id="password" name="password" oninput="strengthChecker()">
+                         Haslo:<br><input type="haslo" id="haslo" name="haslo" oninput="strengthChecker()">
                             <span id="toggle" onclick="toggle()">
                                 <i class="fas fa-eye"></i>
                             </span>
