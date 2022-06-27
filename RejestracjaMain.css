@@ -1,0 +1,43 @@
+*
+{
+    background-color: gray;
+    color:rgb(255, 255, 255);
+    text-shadow: 3px 3px 3px black;
+}
+
+#register
+{
+    border: 4px solid rgb(255, 255, 255);
+    border-radius:10% 0%;
+    text-align: center;
+    padding:2%;
+    background-color: rgb(32, 32, 32);
+}
+
+p
+{
+    width: 90%;
+    margin: 5% auto;
+    padding: 0.5%;
+    border-radius: 0% 20%;
+    border:3px solid rgb(255, 255, 255);
+}
+
+#form
+{
+    border: 4px solid rgb(255, 255, 255);
+    border-radius:10% 0%;
+    text-align: center;
+    padding:2%;
+}
+
+input
+{
+    border: 4px solid rgb(255, 255, 255);
+    border-radius:10% 0%;
+    text-align: center;
+    padding:0.5%;
+    text-shadow: 3px 3px 3px black;
+    background-color: rgb(32, 32, 32);
+    margin:1%;
+}
